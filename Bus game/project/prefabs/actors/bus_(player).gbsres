@@ -1,0 +1,19 @@
+{
+  "_resourceType": "actorPrefab",
+  "id": "b35cc9ac-cec6-4f7c-a7b6-cfeb5467c00b",
+  "name": "Bus (Player)",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "fb9f65d2-7d10-4e78-85e2-2c81853e8a6e",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "persistent": false,
+  "collisionGroup": "",
+  "script": [],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": []
+}

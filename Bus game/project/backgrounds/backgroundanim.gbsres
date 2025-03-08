@@ -3,10 +3,11 @@
   "id": "9eb42646-036b-4fa7-9403-9fb2c6a6e252",
   "name": "backgroundanim",
   "symbol": "bg_backgroundanim",
-  "width": 20,
-  "height": 36,
-  "imageWidth": 160,
-  "imageHeight": 288,
+  "width": 40,
+  "height": 18,
+  "imageWidth": 320,
+  "imageHeight": 144,
   "filename": "backgroundanim.png",
-  "tileColors": ""
+  "tileColors": "",
+  "autoColor": false
 }
